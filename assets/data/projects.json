@@ -4,7 +4,7 @@
     "desc": "اسکریپت تبدیل پاورقی‌های پیچیده، پشتیبانی از GREP، گزارش‌گیری متنی و UI ساده.",
     "category": "indesign",
     "tags": ["ExtendScript", "ES3", "GREP"],
-    "cover": "https://via.placeholder.com/800x500?text=InDesign+Script",
+    "cover": "/assets/img/p1.webp",
     "repo": "https://github.com/sayedalimousawi",
     "link": ""
   },
@@ -13,7 +13,7 @@
     "desc": "محاسبه داینامیک بر اساس تیراژ، رنگ/سیاه‌وسفید، نوع صحافی، و خروجی PDF.",
     "category": "web",
     "tags": ["JS", "UI/UX", "Print"],
-    "cover": "https://via.placeholder.com/800x500?text=Print+Calculator",
+    "cover": "/assets/img/p2.webp",
     "repo": "",
     "link": "https://sayedalimousawi.github.io/"
   },
@@ -22,7 +22,7 @@
     "desc": "داشبورد پروژه‌ها، فیلتر بر اساس نوع چاپ و صحافی، خلاصه سفارش برای اپراتور.",
     "category": "web",
     "tags": ["Dashboard", "Filters", "RTL"],
-    "cover": "https://via.placeholder.com/800x500?text=Orders+Dashboard",
+    "cover": "/assets/img/p3.webp",
     "repo": "",
     "link": ""
   },
@@ -31,7 +31,7 @@
     "desc": "نمونه ترجمه ادبی با سبک وفادار و حاشیه‌نویسی دقیق (نسخه نمایشی).",
     "category": "translation",
     "tags": ["Persian", "Editing"],
-    "cover": "https://via.placeholder.com/800x500?text=Translation+Sample",
+    "cover": "/assets/img/p4.webp",
     "repo": "",
     "link": ""
   },
@@ -40,7 +40,7 @@
     "desc": "قالب‌بندی کامل، استایل‌ها، فهرست، نمایه و آماده‌سازی خروجی چاپ.",
     "category": "indesign",
     "tags": ["Layout", "Typography"],
-    "cover": "https://via.placeholder.com/800x500?text=Book+Layout",
+    "cover": "/assets/img/p5.webp",
     "repo": "",
     "link": ""
   },
@@ -49,7 +49,7 @@
     "desc": "لندینگ سریع با SEO پایه و زمان بارگذاری بسیار کم.",
     "category": "web",
     "tags": ["SEO", "Performance"],
-    "cover": "https://via.placeholder.com/800x500?text=Landing+Page",
+    "cover": "/assets/img/p6.webp",
     "repo": "",
     "link": ""
   }
