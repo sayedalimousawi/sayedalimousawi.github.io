@@ -1,0 +1,13 @@
+{
+  "name": "پورتفولیو سید علی موسوی",
+  "short_name": "S.A.M Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EFE9",
+  "theme_color": "#0F1216",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "64x64 128x128 256x256", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "dir": "rtl",
+  "lang": "fa"
+}
