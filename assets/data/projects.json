@@ -1,0 +1,56 @@
+[
+  {
+    "title": "اتوماسیون پاورقی در InDesign (ES3)",
+    "desc": "اسکریپت تبدیل پاورقی‌های پیچیده، پشتیبانی از GREP، گزارش‌گیری متنی و UI ساده.",
+    "category": "indesign",
+    "tags": ["ExtendScript", "ES3", "GREP"],
+    "cover": "https://via.placeholder.com/800x500?text=InDesign+Script",
+    "repo": "https://github.com/sayedalimousawi",
+    "link": ""
+  },
+  {
+    "title": "فرم محاسبه هزینه چاپ کتاب (وب سبک)",
+    "desc": "محاسبه داینامیک بر اساس تیراژ، رنگ/سیاه‌وسفید، نوع صحافی، و خروجی PDF.",
+    "category": "web",
+    "tags": ["JS", "UI/UX", "Print"],
+    "cover": "https://via.placeholder.com/800x500?text=Print+Calculator",
+    "repo": "",
+    "link": "https://sayedalimousawi.github.io/"
+  },
+  {
+    "title": "پنل مدیریت سفارشات چاپ",
+    "desc": "داشبورد پروژه‌ها، فیلتر بر اساس نوع چاپ و صحافی، خلاصه سفارش برای اپراتور.",
+    "category": "web",
+    "tags": ["Dashboard", "Filters", "RTL"],
+    "cover": "https://via.placeholder.com/800x500?text=Orders+Dashboard",
+    "repo": "",
+    "link": ""
+  },
+  {
+    "title": "ترجمه و ویرایش ادبی",
+    "desc": "نمونه ترجمه ادبی با سبک وفادار و حاشیه‌نویسی دقیق (نسخه نمایشی).",
+    "category": "translation",
+    "tags": ["Persian", "Editing"],
+    "cover": "https://via.placeholder.com/800x500?text=Translation+Sample",
+    "repo": "",
+    "link": ""
+  },
+  {
+    "title": "کتاب: صفحه‌آرایی حرفه‌ای",
+    "desc": "قالب‌بندی کامل، استایل‌ها، فهرست، نمایه و آماده‌سازی خروجی چاپ.",
+    "category": "indesign",
+    "tags": ["Layout", "Typography"],
+    "cover": "https://via.placeholder.com/800x500?text=Book+Layout",
+    "repo": "",
+    "link": ""
+  },
+  {
+    "title": "Landing سبک مخصوص چاپ دیجیتال",
+    "desc": "لندینگ سریع با SEO پایه و زمان بارگذاری بسیار کم.",
+    "category": "web",
+    "tags": ["SEO", "Performance"],
+    "cover": "https://via.placeholder.com/800x500?text=Landing+Page",
+    "repo": "",
+    "link": ""
+  }
+]
